@@ -1,0 +1,20 @@
+﻿<h1>Welcome to Number to Text conversion</h1>
+
+
+<fieldset>
+    <legend>Input:</legend>
+    Enter your Name: <input type="text" name="txtName" data-ng-model="homevm.user.name"><br>
+    Enter a number: <input type="text" name="txtNumber" data-ng-model="homevm.user.number"><br>        
+    <button type="button" data-ng-click="homevm.Convert()">Click</button>
+</fieldset>
+
+
+
+<fieldset>
+    <legend>Output:</legend>
+    <span data-ng-if="homevm.response.error" style="color: red">{{homevm.response.error}}</span>
+    <div data-ng-if="!homevm.response.error">
+        <span>{{homevm.response.name}}</span><br />
+        <span>{{homevm.response.numToText}}</span><br />
+    </div>
+</fieldset>

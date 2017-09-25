@@ -1,0 +1,14 @@
+C:\Workplace\SampleApp\TestWebApp\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Workplace\SampleApp\TestWebApp\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Workplace\SampleApp\TestWebApp\BusinessLogic\bin\Debug\BusinessContract.dll
+C:\Workplace\SampleApp\TestWebApp\BusinessLogic\bin\Debug\BusinessContract.pdb
+C:\Workplace\SampleApp\TestWebApp\TestWebApp\bin\NumToText.BusinessLogic.dll
+C:\Workplace\SampleApp\TestWebApp\TestWebApp\bin\NumToText.BusinessLogic.pdb
+C:\Workplace\SampleApp\TestWebApp\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Workplace\SampleApp\TestWebApp\BusinessLogic\obj\Debug\NumToText.BusinessLogic.dll
+C:\Workplace\SampleApp\TestWebApp\BusinessLogic\obj\Debug\NumToText.BusinessLogic.pdb
+C:\Users\BhaRgAVI\Desktop\TestWebApp\TestWebApp\bin\NumToText.BusinessLogic.dll
+C:\Users\BhaRgAVI\Desktop\TestWebApp\TestWebApp\bin\NumToText.BusinessLogic.pdb
+C:\Users\BhaRgAVI\Desktop\TestWebApp\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\BhaRgAVI\Desktop\TestWebApp\BusinessLogic\obj\Debug\NumToText.BusinessLogic.dll
+C:\Users\BhaRgAVI\Desktop\TestWebApp\BusinessLogic\obj\Debug\NumToText.BusinessLogic.pdb

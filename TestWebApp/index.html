@@ -1,0 +1,24 @@
+﻿<!DOCTYPE html>
+<html data-ng-app="app" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Sample Test Application</title>
+    <script src="Scripts/modernizr-2.7.2.js"></script>
+    <!--<link rel="stylesheet" href="Content/Site.css">-->
+</head>
+<body>
+
+    <!--Container for UI-->
+    <div ui-view></div>
+
+    <!--#region required script-->
+    <script type="text/javascript" src="Scripts/jquery.min.js"></script>
+    <script type="text/javascript" src="Scripts/angular-1.4.8/angular.min.js"></script>
+    <script type="text/javascript" src="Scripts/angular-1.4.8/angular-ui-router.js"></script>
+    <script type="text/javascript" src="Scripts/angular-1.4.8/angular-resource.min.js"></script>
+
+    <!--scripts-->
+    <script type="text/javascript" src="App/app.js"></script>
+    <script type="text/javascript" src="App/Controllers/HomeCtrl.js"></script>
+    <script type="text/javascript" src="App/Services/NumToTextService.js"></script>
+</body>
+</html>

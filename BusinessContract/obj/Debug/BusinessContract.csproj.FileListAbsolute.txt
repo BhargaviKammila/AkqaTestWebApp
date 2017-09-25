@@ -1,0 +1,9 @@
+C:\Workplace\SampleApp\TestWebApp\BusinessContract\bin\Debug\NumToText.BusinessContract.dll
+C:\Workplace\SampleApp\TestWebApp\BusinessContract\bin\Debug\NumToText.BusinessContract.pdb
+C:\Workplace\SampleApp\TestWebApp\BusinessContract\obj\Debug\NumToText.BusinessContract.dll
+C:\Workplace\SampleApp\TestWebApp\BusinessContract\obj\Debug\NumToText.BusinessContract.pdb
+C:\Users\BhaRgAVI\Downloads\TestWebApp\TestWebApp\BusinessContract\bin\Debug\NumToText.BusinessContract.dll
+C:\Users\BhaRgAVI\Downloads\TestWebApp\TestWebApp\BusinessContract\bin\Debug\NumToText.BusinessContract.pdb
+C:\Users\BhaRgAVI\Downloads\TestWebApp\TestWebApp\BusinessContract\obj\Debug\BusinessContract.csprojResolveAssemblyReference.cache
+C:\Users\BhaRgAVI\Downloads\TestWebApp\TestWebApp\BusinessContract\obj\Debug\NumToText.BusinessContract.dll
+C:\Users\BhaRgAVI\Downloads\TestWebApp\TestWebApp\BusinessContract\obj\Debug\NumToText.BusinessContract.pdb
